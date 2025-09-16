@@ -1,4 +1,4 @@
-# Image Processing Paper Code
+# JPEGCompressionStudy
 
 This repository contains the code and artifacts for the term paper:
 **Exploring the Effectiveness of Compressing High-Quality Images for Web Design Purposes (SS2025).**
