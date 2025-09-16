@@ -1,11 +1,3 @@
-### Repository Description
-
-Code and experimental results for the term paper *"Exploring the Effectiveness of Compressing High-Quality Images for Web Design Purposes"* (SS2025). This repository contains the Python pipeline, evaluation metrics, and comparison results of JPEG compression using **OpenCV** and **Pillow**.
-
----
-
-### README.md
-
 # Image Processing Paper Code
 
 This repository contains the code and artifacts for the term paper:
