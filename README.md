@@ -35,6 +35,7 @@ For more information, please refer to the dataset paper:
 
 These images are shared and used in accordance with the dataset's public domain license. Full citation is also provided in the work that has used them.
 
-
+## Acknowledgments
+- **Development Support**: ChatGPT and Claude
 
 
